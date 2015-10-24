@@ -1,11 +1,11 @@
 {
   "author": "Andrew Lunny <alunny@gmail.com>",
-  "name": "xcode",
+  "name": "smf-xcode",
   "description": "parser for xcodeproj/project.pbxproj files",
   "version": "0.8.2",
   "main":"index.js",
   "repository": {
-    "url": "https://github.com/alunny/node-xcode.git"
+    "url": "https://github.com/serkanserttop/node-xcode.git"
   },
   "engines": {
     "node": ">=0.6.7"
